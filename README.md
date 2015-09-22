@@ -5,7 +5,7 @@ Fork this repository into your own github profile.
 Before closing the homework assignment issue:
 
 - Update this README as follows:
-  - [ ] For each question (just after or below the question itself)include the SQL you wrote to generate the answer
+  - [ ] For each question (just after or below the question itself) include the SQL you wrote to generate the answer
   - [ ] For each question (just after or below the question itself) include the *answer* to the question asked.
 
 - Also:
