@@ -12,7 +12,9 @@ Before closing the homework assignment issue:
   - [ ] Commit the updated `store.sqlite3` database file
   - [ ] Include a link to your forked repo in the comments when closing the issue.
 
+
 NOTE: To run sqlite with this database: `sqlite3 store.sqlite3`
+
 NOTE: You may want to keep a backup of the `store.sqlite3` file in case you damage the file. *OR* you can use the command `git checkout store.sqlite3` to undo any changes to the database file since the fork or your last commit.
 
 ## Explorer Mode
