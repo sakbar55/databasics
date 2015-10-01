@@ -19,7 +19,8 @@ NOTE: You may want to keep a backup of the `store.sqlite3` file in case you dama
 
 ## Explorer Mode
 
-- [ ] How many users are there?
+- [X] How many users are there?
+  > select count(*) from users;
 - [ ] What are the 5 most expensive items?
 - [ ] What's the cheapest book? (Does that change for "category is exactly 'book'" versus "category contains 'book'"?)
 - [ ] Who lives at "6439 Zetta Hills, Willmouth, WY"? Do they have another address?
